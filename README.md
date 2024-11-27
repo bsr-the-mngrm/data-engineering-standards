@@ -1,5 +1,5 @@
 # data-engineering-standards
-🚂 Data Engineering Standards
+🚀 Data Engineering Standards
 
 In this repository, I collect information about:
 
